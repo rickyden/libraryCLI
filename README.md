@@ -4,7 +4,7 @@ school project for ATM GUI
 
 ## How to start
 
-1. put both (ojdbc8.jar) and (G17.java) in the same folder path
+1. put both (ojdbc8.jar) and (libraryCLI.java) in the same folder path
 2. open cmd within the folder
 3. compile the program with the command 
 ```bash 
